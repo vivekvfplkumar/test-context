@@ -5,6 +5,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import WelcomePage from "./pages/Homepage";
 import SecuredPage from "./pages/Securedpage";
 import PrivateRoute from "./components/helpers/PrivateRoute";
+import Nav from "./components/Nav";
+
 
 
 function App() {
